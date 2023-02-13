@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    background: rgba( 0, 100, 180, 0.5);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    -webkit-font-smoothing: antialiased;
+}
